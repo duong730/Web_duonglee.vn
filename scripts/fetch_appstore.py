@@ -1,6 +1,7 @@
 """Lấy biểu tượng và thông tin các app của Duong Le trên App Store (chạy trên GitHub Actions)."""
 import json
 import os
+import re
 import urllib.request
 
 OUT = "import/appstore"
@@ -41,6 +42,7 @@ for tid, a in apps.items():
 # Ảnh chụp màn hình cho app chưa có ảnh trên trang cũ (Brain hack - Emoji puzzle)
 for tid in ["1665458705"]:
     for i, u in enumerate(apps.get(tid, {}).get("screenshotUrls", []), 1):
+        u = re.sub(r"/\d+x\d+bb\.(jpg|png)$", r"/784x1392bb.\1", u)
         try:
             with open(f"{OUT}/shot-{tid}-{i}.{u.rsplit('.', 1)[-1]}", "wb") as f:
                 f.write(get(u))
