@@ -25,6 +25,14 @@
     update();
   }
 
+  // Email được mã hóa trong HTML (chống máy quét), giải mã ở đây để hiện và bấm được
+  const decode = (s) => atob(s).split('').reverse().join('');
+  for (const el of document.querySelectorAll('[data-mail]')) {
+    const addr = decode(el.dataset.mail);
+    if (el.tagName === 'A') el.href = `mailto:${addr}${el.dataset.q ? `?${el.dataset.q}` : ''}`;
+    else el.textContent = addr;
+  }
+
   let toast;
   const say = (text) => {
     if (!toast) {
@@ -39,13 +47,14 @@
     say.t = setTimeout(() => toast.classList.remove('is-on'), 1800);
   };
   const vi = document.documentElement.lang === 'vi';
-  for (const btn of document.querySelectorAll('[data-copy]')) {
+  for (const btn of document.querySelectorAll('[data-copy], [data-copy-mail]')) {
     btn.addEventListener('click', async () => {
+      const text = btn.dataset.copy ?? decode(btn.dataset.copyMail);
       try {
-        await navigator.clipboard.writeText(btn.dataset.copy);
+        await navigator.clipboard.writeText(text);
         say(vi ? 'Đã chép địa chỉ email' : 'Email address copied');
       } catch {
-        say(btn.dataset.copy);
+        say(text);
       }
     });
   }

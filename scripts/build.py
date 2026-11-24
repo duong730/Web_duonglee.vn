@@ -9,6 +9,7 @@ Nguồn:
   src/      giao diện (styles.css, site.js), trang tiếng Việt viết tay (src/pages), tệp tĩnh (src/static)
 """
 
+import base64
 import hashlib
 import html
 import os
@@ -169,6 +170,21 @@ def asset(name):
     return f"/assets/{name}?v={ASSET_V[name]}"
 
 
+def protect_email(doc, lang):
+    """Không để email hỗ trợ ở dạng chữ thường trong HTML: mã hóa, trình duyệt giải mã bằng site.js.
+    Máy quét email đọc HTML thô sẽ không thấy địa chỉ; người xem vẫn thấy và bấm được như bình thường."""
+    enc = base64.b64encode(EMAIL[::-1].encode()).decode()
+    hidden = "[bật JavaScript để xem email]" if lang == "vi" else "[enable JavaScript to see the email]"
+    doc = re.sub(
+        r'href="mailto:' + re.escape(EMAIL) + r'(?:\?([^"]*))?"',
+        lambda m: f'href="#" data-mail="{enc}"' + (f' data-q="{m.group(1)}"' if m.group(1) else ""),
+        doc,
+        flags=re.I,
+    )
+    doc = doc.replace(f'data-copy="{EMAIL}"', f'data-copy-mail="{enc}"')
+    return re.sub(re.escape(EMAIL), f'<span data-mail="{enc}">{hidden}</span>', doc, flags=re.I)
+
+
 def page(path, title, body, *, desc="", lang="en", image_url="/og.png", body_class=""):
     nav = "".join(f'<a href="{u}">{t}</a>' for t, u in NAV[lang])
     preload = "\n".join(
@@ -220,6 +236,7 @@ def page(path, title, body, *, desc="", lang="en", image_url="/og.png", body_cla
 </body>
 </html>
 """
+    doc = protect_email(doc, lang)
     dest = OUT / path.strip("/") / "index.html" if path.endswith("/") else OUT / path
     dest.parent.mkdir(parents=True, exist_ok=True)
     dest.write_text(doc, encoding="utf-8")
