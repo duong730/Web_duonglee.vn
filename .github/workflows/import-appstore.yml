@@ -1,0 +1,24 @@
+# Chạy một lần: lấy biểu tượng và thông tin app trên App Store vào import/appstore/
+name: Lấy biểu tượng app từ App Store
+
+on:
+  workflow_dispatch:
+  push:
+    paths: ['.github/workflows/import-appstore.yml', 'scripts/fetch_appstore.py']
+
+permissions:
+  contents: write
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - run: python3 scripts/fetch_appstore.py
+      - name: Lưu vào repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add import
+          git diff --cached --quiet || git commit -m "Lấy biểu tượng app từ App Store"
+          git push
