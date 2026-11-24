@@ -38,6 +38,15 @@ for tid, a in apps.items():
     except Exception as e:  # noqa: BLE001
         print("skip icon", tid, e)
 
+# Ảnh chụp màn hình cho app chưa có ảnh trên trang cũ (Brain hack - Emoji puzzle)
+for tid in ["1665458705"]:
+    for i, u in enumerate(apps.get(tid, {}).get("screenshotUrls", []), 1):
+        try:
+            with open(f"{OUT}/shot-{tid}-{i}.{u.rsplit('.', 1)[-1]}", "wb") as f:
+                f.write(get(u))
+        except Exception as e:  # noqa: BLE001
+            print("skip shot", u, e)
+
 with open(f"{OUT}/apps.json", "w", encoding="utf-8") as f:
     json.dump(list(apps.values()), f, ensure_ascii=False, indent=1)
 print(len(apps), "app:", ", ".join(a["trackName"] for a in apps.values()))
