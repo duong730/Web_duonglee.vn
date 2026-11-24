@@ -1,0 +1,24 @@
+# Chạy một lần: lấy nội dung và ảnh từ trang WordPress cũ (duonglehoai.wordpress.com) vào thư mục import/
+name: Lấy nội dung từ WordPress cũ
+
+on:
+  workflow_dispatch:
+  push:
+    paths: ['.github/workflows/import-wordpress.yml', 'scripts/import_wordpress.py']
+
+permissions:
+  contents: write
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - run: python3 scripts/import_wordpress.py
+      - name: Lưu vào repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add import
+          git diff --cached --quiet || git commit -m "Lấy nội dung từ WordPress cũ"
+          git push
