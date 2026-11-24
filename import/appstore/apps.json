@@ -1,9 +1,12 @@
 [
  {
+  "artistViewUrl": "https://apps.apple.com/vn/developer/duong-le/id1599040249?uo=4",
+  "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/0a/cd/ea0acd7e-62e0-6f09-fec9-2ca71dfa503b/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
+  "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/0a/cd/ea0acd7e-62e0-6f09-fec9-2ca71dfa503b/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+  "isGameCenterEnabled": false,
   "features": [
    "iosUniversal"
   ],
-  "isGameCenterEnabled": false,
   "supportedDevices": [
    "iPhone5s-iPhone5s",
    "iPadAir-iPadAir",
@@ -142,22 +145,6 @@
    "Infrequent/Mild Cartoon or Fantasy Violence"
   ],
   "kind": "software",
-  "ipadScreenshotUrls": [
-   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/10/d7/df10d7b4-614e-d721-8bad-b2cc1f43ceff/iPad0000.png/360x480bb.jpg",
-   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/98/a3/fe/98a3fe0c-44d8-5db6-a453-5d009188d56d/iPad0001.png/360x480bb.jpg",
-   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/e2/95/85e2951c-7790-b6ae-8853-960288e244b5/iPad0003.png/360x480bb.jpg",
-   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/9a/29/ae9a29ce-67ff-a715-b1c1-0a4df937d036/iPad0004.png/360x480bb.jpg",
-   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/5b/e6/155be66d-8ad2-e13a-a68b-827e7bb4116d/iPad0008.png/360x480bb.jpg",
-   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/48/ae/0048ae7b-8e2f-1efe-7b2d-480466c00af4/iPad0006.png/360x480bb.jpg",
-   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/97/bf/98/97bf98b6-d687-bcfc-2c41-aeb9c406ecc8/iPad0007.png/360x480bb.jpg",
-   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/d8/c7/2ed8c733-eb5f-32b8-6249-197608e5bee0/iPad0005.png/360x480bb.jpg",
-   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/11/85/05118541-b0c0-923a-bd08-79dbe4f4aadb/iPad0002.png/360x480bb.jpg"
-  ],
-  "appletvScreenshotUrls": [],
-  "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/0a/cd/ea0acd7e-62e0-6f09-fec9-2ca71dfa503b/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
-  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/0a/cd/ea0acd7e-62e0-6f09-fec9-2ca71dfa503b/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
-  "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/0a/cd/ea0acd7e-62e0-6f09-fec9-2ca71dfa503b/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
-  "artistViewUrl": "https://apps.apple.com/vn/developer/duong-le/id1599040249?uo=4",
   "screenshotUrls": [
    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/45/8e/05458e5a-c794-cd1f-ca22-f511ddb4bbe6/iPhone6.50007.png/320x480bb.jpg",
    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/1d/61/411d6122-2e8c-37f6-ad86-afec3b7a2f0c/iPhone6.50003.png/320x480bb.jpg",
@@ -170,7 +157,21 @@
    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/14/02/21/140221f3-9128-ffa2-d955-7028c8a85dd8/iPhone6.50010.png/320x480bb.jpg",
    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/b2/bb/42b2bbb9-f4fd-b121-3d09-440fe19f418b/iPhone6.50008.png/320x480bb.jpg"
   ],
-  "currentVersionReleaseDate": "2025-10-06T21:36:58Z",
+  "ipadScreenshotUrls": [
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/10/d7/df10d7b4-614e-d721-8bad-b2cc1f43ceff/iPad0000.png/360x480bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/98/a3/fe/98a3fe0c-44d8-5db6-a453-5d009188d56d/iPad0001.png/360x480bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/e2/95/85e2951c-7790-b6ae-8853-960288e244b5/iPad0003.png/360x480bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/9a/29/ae9a29ce-67ff-a715-b1c1-0a4df937d036/iPad0004.png/360x480bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/5b/e6/155be66d-8ad2-e13a-a68b-827e7bb4116d/iPad0008.png/360x480bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/48/ae/0048ae7b-8e2f-1efe-7b2d-480466c00af4/iPad0006.png/360x480bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/97/bf/98/97bf98b6-d687-bcfc-2c41-aeb9c406ecc8/iPad0007.png/360x480bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/d8/c7/2ed8c733-eb5f-32b8-6249-197608e5bee0/iPad0005.png/360x480bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/11/85/05118541-b0c0-923a-bd08-79dbe4f4aadb/iPad0002.png/360x480bb.jpg"
+  ],
+  "appletvScreenshotUrls": [],
+  "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/0a/cd/ea0acd7e-62e0-6f09-fec9-2ca71dfa503b/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+  "contentAdvisoryRating": "9+",
+  "averageUserRating": 0,
   "artistId": 1599040249,
   "artistName": "Duong Le",
   "genres": [
@@ -181,16 +182,17 @@
   ],
   "price": 0.0,
   "bundleId": "duongle.finding1002d",
+  "currentVersionReleaseDate": "2025-10-06T21:36:58Z",
   "releaseDate": "2025-10-06T07:00:00Z",
   "trackId": 6752948624,
   "trackName": "Number Defense: Find & Destroy",
-  "minimumOsVersion": "15.0",
   "genreIds": [
    "6014",
    "6017",
    "7012",
    "7017"
   ],
+  "minimumOsVersion": "15.0",
   "primaryGenreName": "Games",
   "primaryGenreId": 6014,
   "sellerName": "Duong Le",
@@ -199,25 +201,26 @@
   "wrapperType": "software",
   "currency": "VND",
   "description": "Challenge your mind with the ultimate number puzzle brain training game that combines sequential number finding with strategic tower defense gameplay!\n\nFind numbers from 1 to 100 in correct order while defending against virus attacks in this innovative puzzle defense game that tests your mental agility and strategic thinking.\n\nUNIQUE PUZZLE GAMEPLAY\nNumber Defense offers a refreshing twist on traditional number games and brain puzzles. Locate and tap numbers sequentially from 1 to 100 while managing an increasingly complex battlefield. This number hunting adventure combines math training benefits with real-time strategy excitement.\n\nEach level presents colorful randomly arranged number blocks you must find and destroy in sequence. This system ensures continuous brain training and skill development.\n\nSTRATEGIC DEFENSE ELEMENTS\nThe innovative virus defense system sets Number Defense apart from ordinary number puzzle games. While finding the correct number sequence, dangerous viruses fall from above, threatening to overwhelm your playing field. Too many accumulated viruses end your game, adding urgent time pressure.\n\nFeatures a 6-level turret defense system with varying power levels. Defensive turrets automatically target falling viruses while you maintain focus on the primary number puzzle challenge. Balancing puzzle solving with tower defense strategy creates uniquely engaging brain training.\n\nPROGRESSIVE CHALLENGE\nCarefully balanced difficulty progression keeps players engaged across all skill levels. Early levels focus on basic number recognition and sequential thinking. Advanced levels introduce complex number ranges, faster virus spawn rates, and reduced time limits.\n\nEDUCATIONAL BRAIN BENEFITS\nExcellent brain training tool enhancing multiple cognitive abilities:\n- Sequential memory through number practice 1-100\n- Pattern recognition finding numbers among colorful blocks\n- Concentration improvement managing dual tasks\n- Mathematical fluency through constant number exposure  \n- Decision making choosing power-up timing and strategies\n\nPERFECT FOR ALL PLAYERS\nAppropriate challenge levels for students improving math skills, adults seeking brain training exercises, seniors maintaining cognitive abilities, and families enjoying shared gaming experiences.\n\nSTUNNING VISUAL DESIGN\nBeautifully crafted graphics with vibrant colors make number identification easy and enjoyable. Forest-themed background creates immersive gaming while colorful blocks ensure excellent visibility for all ages.\n\nCONTINUOUS VALUE\nHundreds of levels with different number ranges provide virtually unlimited replay value. Random number block arrangements ensure no two games feel identical. Strategic virus defense combined with puzzle solving creates emergent gameplay keeping experienced players engaged long-term.\n\nDownload Number Defense: Find & Destroy today and discover this innovative puzzle defense game for daily brain training. Challenge your mind, improve cognitive abilities, and enjoy strategic puzzle entertainment that grows with your skills!",
-  "averageUserRatingForCurrentVersion": 0,
   "trackCensoredName": "Number Defense: Find & Destroy",
+  "averageUserRatingForCurrentVersion": 0,
   "languageCodesISO2A": [
    "EN"
   ],
   "fileSizeBytes": "153687040",
   "formattedPrice": "Free",
-  "contentAdvisoryRating": "9+",
   "userRatingCountForCurrentVersion": 0,
   "trackViewUrl": "https://apps.apple.com/vn/app/number-defense-find-destroy/id6752948624?uo=4",
   "trackContentRating": "9+",
-  "averageUserRating": 0,
   "userRatingCount": 0
  },
  {
+  "artistViewUrl": "https://apps.apple.com/vn/developer/duong-le/id1599040249?uo=4",
+  "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/30/53/b2305391-7b0d-9838-037f-49e3427a78f6/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
+  "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/30/53/b2305391-7b0d-9838-037f-49e3427a78f6/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+  "isGameCenterEnabled": false,
   "features": [
    "iosUniversal"
   ],
-  "isGameCenterEnabled": false,
   "supportedDevices": [
    "iPhone5s-iPhone5s",
    "iPadAir-iPadAir",
@@ -354,6 +357,13 @@
   ],
   "advisories": [],
   "kind": "software",
+  "screenshotUrls": [
+   "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/c3/d5/f1c3d58b-ce47-1854-a0d5-905406e66d55/7ff0ec44-32ee-492c-859e-bed3916bf45a_01.jpg/406x228bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/ee/b9/26eeb9df-50d5-2467-12f4-b53b84536920/0b1b5f2e-e3c8-4a26-8eab-1653f509d05c_02.jpg/406x228bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/d6/d8/9bd6d81b-568b-2139-ca77-03d6fb6792bc/e127a1ad-d30b-42a9-93b2-00162ee0f611_03.jpg/406x228bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/20/6b/5d206be3-67a4-dd37-3d17-99474be65d75/a95da81b-1f4c-4d1a-a570-e47183b81567_04.jpg/406x228bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/71/28/0071288d-192a-bfed-374d-7ae4d30b68c3/f2786748-8f61-4bbb-bc1f-b7afffb05d40_05.jpg/406x228bb.jpg"
+  ],
   "ipadScreenshotUrls": [
    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/b3/e7/efb3e7a6-98a5-5cca-9bfe-df24f1105caa/af5e456e-ffb6-4038-a729-eb1c893e907e_01.jpg/552x414bb.jpg",
    "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/b1/5d/4ab15de9-9f5d-f0b0-72bd-1cde75cdea48/10be529d-c677-44dc-afc2-5cd796647046_02.jpg/552x414bb.jpg",
@@ -362,18 +372,9 @@
    "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/76/3f/b1763ff1-6557-8859-d180-772d772e70fc/ee4339a6-bb29-4b7f-a067-9bed8cf712bd_05.jpg/552x414bb.jpg"
   ],
   "appletvScreenshotUrls": [],
-  "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/30/53/b2305391-7b0d-9838-037f-49e3427a78f6/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/30/53/b2305391-7b0d-9838-037f-49e3427a78f6/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
-  "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/30/53/b2305391-7b0d-9838-037f-49e3427a78f6/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
-  "artistViewUrl": "https://apps.apple.com/vn/developer/duong-le/id1599040249?uo=4",
-  "screenshotUrls": [
-   "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/c3/d5/f1c3d58b-ce47-1854-a0d5-905406e66d55/7ff0ec44-32ee-492c-859e-bed3916bf45a_01.jpg/406x228bb.jpg",
-   "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/ee/b9/26eeb9df-50d5-2467-12f4-b53b84536920/0b1b5f2e-e3c8-4a26-8eab-1653f509d05c_02.jpg/406x228bb.jpg",
-   "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/d6/d8/9bd6d81b-568b-2139-ca77-03d6fb6792bc/e127a1ad-d30b-42a9-93b2-00162ee0f611_03.jpg/406x228bb.jpg",
-   "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/20/6b/5d206be3-67a4-dd37-3d17-99474be65d75/a95da81b-1f4c-4d1a-a570-e47183b81567_04.jpg/406x228bb.jpg",
-   "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/71/28/0071288d-192a-bfed-374d-7ae4d30b68c3/f2786748-8f61-4bbb-bc1f-b7afffb05d40_05.jpg/406x228bb.jpg"
-  ],
-  "currentVersionReleaseDate": "2026-03-29T21:39:41Z",
+  "contentAdvisoryRating": "4+",
+  "averageUserRating": 1,
   "releaseNotes": "INSECT WORLD – Discover the tiny world of bugs!\nMeet cute insects and explore exciting new adventures!\nNew animals + New adventures = Happy kids!\nDownload now and start exploring!",
   "artistId": 1599040249,
   "artistName": "Duong Le",
@@ -385,16 +386,17 @@
   ],
   "price": 0.0,
   "bundleId": "com.duongle.findinganimal",
+  "currentVersionReleaseDate": "2026-03-29T21:39:41Z",
   "releaseDate": "2022-07-27T07:00:00Z",
   "trackId": 1635711570,
   "trackName": "Learning game for kid: Animal",
-  "minimumOsVersion": "12.0",
   "genreIds": [
    "6014",
    "7009",
    "7012",
    "6017"
   ],
+  "minimumOsVersion": "12.0",
   "primaryGenreName": "Games",
   "primaryGenreId": 6014,
   "sellerName": "Duong Le",
@@ -403,8 +405,8 @@
   "wrapperType": "software",
   "currency": "VND",
   "description": "Set off on a new exciting journey in animal world! Explore many kinds of animal in many places in the world.\n\nApplication feature:\n- Searching for and playing with 72 kinds of animal and insects\n- Learn interesting sounds and shapes of these animals.\n- Learn counting simple numbers by finding and matching animals, insects.\n- Encourage kids break their record in each game.\n- Enjoy the colorful graphics and vivid animation.\n- Very easy to play and kid-friendly controls.\n- Play offline.\n\nThis game is designed for many ages, especially perfect for preschool kids who love playing games and want to explore our fascinating world. This game also helps to practice, improve patience, concentration and hand mobility for kids.\n\nWe have chosen animals come from many where and most popular to introduce to kids.\n\nEnjoy the game and if you need any support or have any question, you can contact me by the help button in the game.",
-  "averageUserRatingForCurrentVersion": 1,
   "trackCensoredName": "Learning game for kid: Animal",
+  "averageUserRatingForCurrentVersion": 1,
   "languageCodesISO2A": [
    "AR",
    "EN",
@@ -425,18 +427,19 @@
   ],
   "fileSizeBytes": "337250304",
   "formattedPrice": "Free",
-  "contentAdvisoryRating": "4+",
   "userRatingCountForCurrentVersion": 1,
   "trackViewUrl": "https://apps.apple.com/vn/app/learning-game-for-kid-animal/id1635711570?uo=4",
   "trackContentRating": "4+",
-  "averageUserRating": 1,
   "userRatingCount": 1
  },
  {
+  "artistViewUrl": "https://apps.apple.com/vn/developer/duong-le/id1599040249?uo=4",
+  "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/ae/ce/47aece97-0bf5-221f-1d42-d816cbf15e4d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
+  "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/ae/ce/47aece97-0bf5-221f-1d42-d816cbf15e4d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+  "isGameCenterEnabled": false,
   "features": [
    "iosUniversal"
   ],
-  "isGameCenterEnabled": false,
   "supportedDevices": [
    "iPhone5s-iPhone5s",
    "iPadAir-iPadAir",
@@ -573,6 +576,18 @@
   ],
   "advisories": [],
   "kind": "software",
+  "screenshotUrls": [
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/16/cd/a4/16cda493-7784-8f9d-41db-3014fb4d4884/0b3bc449-9693-4549-bd8f-39eb5b527bb2_1__U0028Copy1_U0029.jpg/406x228bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/6e/a3/9a/6ea39a18-a83b-8df7-4760-c9ea094cca88/5b6edc74-3363-445e-bf7a-3c31dba44c95_2__U0028Copy1_U0029.jpg/406x228bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/ed/5e/c5/ed5ec507-f4a5-ce9b-ae76-ddc18152a9b1/def58b66-2afe-48ae-99f2-7f885d371d42_3__U0028Copy1_U0029.jpg/406x228bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/aa/17/e6/aa17e6cf-90cd-695c-5594-982e64b9bd76/9d6a0a28-1570-4f3c-90ec-ac8dc6ee16d5_4__U0028Copy1_U0029.jpg/406x228bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/77/ac/93/77ac93bb-746a-c5f3-0334-58ac49e48cf6/3975b07f-b960-4bef-8713-185b210d024f_5__U0028Copy1_U0029.jpg/406x228bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/88/b1/0f/88b10ff6-8a95-4b83-52bd-b609f70c007b/400e9f21-7f11-4103-ac6c-a36738aa76b7_93__U0028Copy_U0029.jpg/406x228bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/9a/2d/1a/9a2d1a3e-3d15-d829-cdf5-46735afed655/e172b9d2-894a-474e-bd2f-cb43ddaf6c3e_6__U0028Copy1_U0029.jpg/406x228bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/13/97/da/1397da65-a267-2563-7b81-644b20449789/fe2da1fa-7c09-4901-86bb-611f0a1b55c8_9__U0028Copy_U0029.jpg/406x228bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/8e/99/0d/8e990dc3-cbd6-3e81-aa9c-d41454055d5c/875709f8-8c48-4fe2-9855-5458d4c8fdc4_91__U0028Copy_U0029.jpg/406x228bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/7e/70/5d/7e705d9f-2c19-64b3-3c96-6dea9c264d7b/51f63c46-948d-4800-b874-398b7f0169fa_92__U0028Copy_U0029.jpg/406x228bb.jpg"
+  ],
   "ipadScreenshotUrls": [
    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/c7/0a/52/c70a5264-95d6-d42d-c7f1-6066f89c0c25/ca1ad396-755c-466b-ab93-ff1a53500634_2022-09-24_14-28-16__U0028Copy_U0029.jpg/552x414bb.jpg",
    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/5c/ba/d2/5cbad238-d525-6611-cc6c-c46badb03e0e/0a477ea0-e8cd-4c5d-9b18-6a67535e91ff_2022-09-24_14-30-32__U0028Copy_U0029.jpg/552x414bb.jpg",
@@ -586,23 +601,9 @@
    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/72/a8/bc/72a8bc42-f4b1-6ff4-7655-d79f79080fe6/f36e2753-52bf-4883-a473-649d5e4c8629_92__U0028Copy_U0029.jpg/552x414bb.jpg"
   ],
   "appletvScreenshotUrls": [],
-  "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/ae/ce/47aece97-0bf5-221f-1d42-d816cbf15e4d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/ae/ce/47aece97-0bf5-221f-1d42-d816cbf15e4d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
-  "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/ae/ce/47aece97-0bf5-221f-1d42-d816cbf15e4d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
-  "artistViewUrl": "https://apps.apple.com/vn/developer/duong-le/id1599040249?uo=4",
-  "screenshotUrls": [
-   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/16/cd/a4/16cda493-7784-8f9d-41db-3014fb4d4884/0b3bc449-9693-4549-bd8f-39eb5b527bb2_1__U0028Copy1_U0029.jpg/406x228bb.jpg",
-   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/6e/a3/9a/6ea39a18-a83b-8df7-4760-c9ea094cca88/5b6edc74-3363-445e-bf7a-3c31dba44c95_2__U0028Copy1_U0029.jpg/406x228bb.jpg",
-   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/ed/5e/c5/ed5ec507-f4a5-ce9b-ae76-ddc18152a9b1/def58b66-2afe-48ae-99f2-7f885d371d42_3__U0028Copy1_U0029.jpg/406x228bb.jpg",
-   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/aa/17/e6/aa17e6cf-90cd-695c-5594-982e64b9bd76/9d6a0a28-1570-4f3c-90ec-ac8dc6ee16d5_4__U0028Copy1_U0029.jpg/406x228bb.jpg",
-   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/77/ac/93/77ac93bb-746a-c5f3-0334-58ac49e48cf6/3975b07f-b960-4bef-8713-185b210d024f_5__U0028Copy1_U0029.jpg/406x228bb.jpg",
-   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/88/b1/0f/88b10ff6-8a95-4b83-52bd-b609f70c007b/400e9f21-7f11-4103-ac6c-a36738aa76b7_93__U0028Copy_U0029.jpg/406x228bb.jpg",
-   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/9a/2d/1a/9a2d1a3e-3d15-d829-cdf5-46735afed655/e172b9d2-894a-474e-bd2f-cb43ddaf6c3e_6__U0028Copy1_U0029.jpg/406x228bb.jpg",
-   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/13/97/da/1397da65-a267-2563-7b81-644b20449789/fe2da1fa-7c09-4901-86bb-611f0a1b55c8_9__U0028Copy_U0029.jpg/406x228bb.jpg",
-   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/8e/99/0d/8e990dc3-cbd6-3e81-aa9c-d41454055d5c/875709f8-8c48-4fe2-9855-5458d4c8fdc4_91__U0028Copy_U0029.jpg/406x228bb.jpg",
-   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/7e/70/5d/7e705d9f-2c19-64b3-3c96-6dea9c264d7b/51f63c46-948d-4800-b874-398b7f0169fa_92__U0028Copy_U0029.jpg/406x228bb.jpg"
-  ],
-  "currentVersionReleaseDate": "2026-06-05T03:19:37Z",
+  "contentAdvisoryRating": "4+",
+  "averageUserRating": 4.19428,
   "releaseNotes": "Added: Cultivation Journey (Mortal to Immortal) ranking system.\n\nAdded: Comprehensive collection of Buddhist scriptures for home practitioners.",
   "artistId": 1599040249,
   "artistName": "Duong Le",
@@ -612,14 +613,15 @@
   ],
   "price": 0.0,
   "bundleId": "com.duongle.dichuaonline",
+  "currentVersionReleaseDate": "2026-06-05T03:19:37Z",
   "releaseDate": "2022-09-26T07:00:00Z",
   "trackId": 6443436301,
   "trackName": "Online Pagoda",
-  "minimumOsVersion": "15.0",
   "genreIds": [
    "6002",
    "6012"
   ],
+  "minimumOsVersion": "15.0",
   "primaryGenreName": "Utilities",
   "primaryGenreId": 6002,
   "sellerName": "Duong Le",
@@ -628,26 +630,27 @@
   "wrapperType": "software",
   "currency": "VND",
   "description": "DIGITAL TEMPLE - PEACEFUL MIND\n\nOVERVIEW\nTrue enlightenment is not about having a Buddha in your heart, but realizing that \"the mind itself is Buddha.\" Online Temple is designed to accompany you on the journey of practicing compassion and finding inner peace amidst the hustle and bustle of modern life.\n\nWhether you are busy or unable to visit a temple in person, this app supports you in maintaining your daily rituals of prayer and learning.\n\nKEY FEATURES\n\n1. Digital Worship Space\nSet up a Buddha altar and Ancestor altar right on your device. This is a meaningful way to express gratitude and pray for peace and protection for your family. You can place memorial photos, burn incense, and arrange offerings in a solemn virtual environment.\n\n2. Chanting & Wooden Fish Rituals\nA complete set of spiritual instruments, including the Bell and Wooden Fish (Mokugyo), with authentic, resonating sounds. The rhythmic sound of the wooden fish helps focus the mind and eliminate worries. Access a rich library of scriptures: Medicine Buddha Sutra, Amitabha Sutra, Great Compassion Mantra, Heart Sutra, and other profound Mahayana texts.\n\n3. Prayers & Petitions\nA library of prayers for various occasions: daily prayers, groundbreaking ceremonies, New Year's Eve, and blessings for peace. Praying helps soothe the spirit and guide the soul toward goodness.\n\n4. Meditation & Mindfulness\nIntegrated meditation sessions help balance the body and relieve stress. Mindfulness bells help you maintain focus, train the brain, and nurture positive energy.\n\n5. Cultivation Journey & Rankings\nThe \"Mortal to Immortal\" feature simulates the progress of a practitioner. The cultivation ranking tracks your daily efforts, providing motivation to maintain your spiritual path.\n\n6. Additional Utilities\n\nPrayer beads and audio sutras that play even when the screen is locked.\n\nAutomatic Bell and Wooden Fish modes.\n\nRepentance Room to purify the soul and acknowledge mistakes.\n\nMemorial Room for the deceased and virtual life release (Fangsheng) features.\n\nA collection of traditional prayers for holidays and ceremonies.\n\nMEANING OF THE APP\nOnline Temple is more than just an app; it is a portable spiritual sanctuary. Lighting a virtual incense stick, chanting, or sitting in silence for a few minutes each day will help you transcend mundane desires and move toward a life of serenity and freedom.\n\nFind your peace and lightness of mind today with Online Temple.",
-  "averageUserRatingForCurrentVersion": 4.19428,
   "trackCensoredName": "Online Pagoda",
+  "averageUserRatingForCurrentVersion": 4.19428,
   "languageCodesISO2A": [
    "EN",
    "VI"
   ],
   "fileSizeBytes": "372021248",
   "formattedPrice": "Free",
-  "contentAdvisoryRating": "4+",
   "userRatingCountForCurrentVersion": 175,
   "trackViewUrl": "https://apps.apple.com/vn/app/online-pagoda/id6443436301?uo=4",
   "trackContentRating": "4+",
-  "averageUserRating": 4.19428,
   "userRatingCount": 175
  },
  {
+  "artistViewUrl": "https://apps.apple.com/vn/developer/duong-le/id1599040249?uo=4",
+  "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/02/e4/ab/02e4ab6b-09c4-8fbf-f4ca-9e70dd2033f9/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg",
+  "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/02/e4/ab/02e4ab6b-09c4-8fbf-f4ca-9e70dd2033f9/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
+  "isGameCenterEnabled": false,
   "features": [
    "iosUniversal"
   ],
-  "isGameCenterEnabled": false,
   "supportedDevices": [
    "iPhone5s-iPhone5s",
    "iPadAir-iPadAir",
@@ -784,6 +787,12 @@
   ],
   "advisories": [],
   "kind": "software",
+  "screenshotUrls": [
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d8/ae/e6/d8aee6a1-bf3c-dfca-cace-753b096f0a12/e1a49df3-a590-4892-b9ea-a06c12679131_screenshot1.jpeg/392x696bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/67/20/7f/67207f6d-f6a9-d327-c07c-6b14b057ff4b/5c864200-27ed-404b-88f4-d6736db7147d_screenshot7.jpeg/392x696bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/40/38/4c/40384cb6-a533-3e1e-0662-e68423cdad0e/afd54b44-5d66-4318-b1c3-2225c6390577_screenshot3.jpeg/392x696bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ab/d3/26/abd3264d-6ab5-4324-4ca2-8c4b0cbee132/a3bbc83a-96ce-4e26-82b5-85a12d503809_screenshot5.jpeg/392x696bb.jpg"
+  ],
   "ipadScreenshotUrls": [
    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/0b/8a/df/0b8adff3-07d8-a2e9-2b30-d8f61cf00826/b55db2b8-fac3-4f16-ae02-bd47de4ea7cc_screenshot1.jpeg/576x768bb.jpg",
    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/36/dd/7f/36dd7f51-04e5-c6a4-484a-7d13ea54dd3c/7c78fad2-c9e2-4de6-b2a3-a0c7c8891eb9_screenshot-7.jpg/576x768bb.jpg",
@@ -791,17 +800,9 @@
    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/1f/72/47/1f724763-de1b-6fb6-4e9d-22cb190545e1/f51d3dff-8c83-4416-bda6-f7e6ddaf07eb_screenshot5.jpeg/576x768bb.jpg"
   ],
   "appletvScreenshotUrls": [],
-  "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/02/e4/ab/02e4ab6b-09c4-8fbf-f4ca-9e70dd2033f9/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg",
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/02/e4/ab/02e4ab6b-09c4-8fbf-f4ca-9e70dd2033f9/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-  "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/02/e4/ab/02e4ab6b-09c4-8fbf-f4ca-9e70dd2033f9/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
-  "artistViewUrl": "https://apps.apple.com/vn/developer/duong-le/id1599040249?uo=4",
-  "screenshotUrls": [
-   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d8/ae/e6/d8aee6a1-bf3c-dfca-cace-753b096f0a12/e1a49df3-a590-4892-b9ea-a06c12679131_screenshot1.jpeg/392x696bb.jpg",
-   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/67/20/7f/67207f6d-f6a9-d327-c07c-6b14b057ff4b/5c864200-27ed-404b-88f4-d6736db7147d_screenshot7.jpeg/392x696bb.jpg",
-   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/40/38/4c/40384cb6-a533-3e1e-0662-e68423cdad0e/afd54b44-5d66-4318-b1c3-2225c6390577_screenshot3.jpeg/392x696bb.jpg",
-   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ab/d3/26/abd3264d-6ab5-4324-4ca2-8c4b0cbee132/a3bbc83a-96ce-4e26-82b5-85a12d503809_screenshot5.jpeg/392x696bb.jpg"
-  ],
-  "currentVersionReleaseDate": "2021-12-20T21:44:41Z",
+  "contentAdvisoryRating": "4+",
+  "averageUserRating": 4,
   "artistId": 1599040249,
   "artistName": "Duong Le",
   "genres": [
@@ -810,14 +811,15 @@
   ],
   "price": 0.0,
   "bundleId": "DuongLe.Infor-Save",
+  "currentVersionReleaseDate": "2021-12-20T21:44:41Z",
   "releaseDate": "2021-12-20T08:00:00Z",
   "trackId": 1599040247,
   "trackName": "Infor Save",
-  "minimumOsVersion": "13.0",
   "genreIds": [
    "6002",
    "6006"
   ],
+  "minimumOsVersion": "13.0",
   "primaryGenreName": "Utilities",
   "primaryGenreId": 6002,
   "sellerName": "Duong Le",
@@ -826,25 +828,20 @@
   "wrapperType": "software",
   "currency": "VND",
   "description": "Infor Save manage and store all of your private information safely.\nYou can save whatever you want from password, login account, credit card, driver license, passport... to a recipe, a poem, story or even a book.\nThere is no user data leak, all data is store locally in your device, no one can access it from outside or online. Even when your device is lost or stolen, no one can see your data without your password or FaceID/ TouchID. No private database can be transferred online except the report of crash and analysis for performance optimizations.\nThis app is very light, very easy to use with beautiful design, support Dark/ Light mode, FaceID/ TouchID login and also Sign in with Apple in case you forgot password to login the app. Please remember your account and password after creating to access this app, if you forget you only can access by FaceID or TouchID or Sign in with App and no way to change the password again.",
-  "averageUserRatingForCurrentVersion": 4,
   "trackCensoredName": "Infor Save",
+  "averageUserRatingForCurrentVersion": 4,
   "languageCodesISO2A": [
    "EN",
    "VI"
   ],
   "fileSizeBytes": "15376384",
   "formattedPrice": "Free",
-  "contentAdvisoryRating": "4+",
   "userRatingCountForCurrentVersion": 4,
   "trackViewUrl": "https://apps.apple.com/vn/app/infor-save/id1599040247?uo=4",
   "trackContentRating": "4+",
-  "averageUserRating": 4,
   "userRatingCount": 4
  },
  {
-  "isGameCenterEnabled": false,
-  "advisories": [],
-  "kind": "software",
   "features": [
    "iosUniversal"
   ],
@@ -856,7 +853,6 @@
    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/19/7e/af/197eaf82-5a66-5d2d-89a9-dcfc2a8085a7/2ce8a9be-5c54-4e4c-924c-7cf77fd8229e_2023-01-16_09-41-58.jpg/392x696bb.jpg",
    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/35/bc/cb/35bccb00-3831-97c9-6228-569fd83395b2/c5272459-f4fa-48d8-913e-a36608750cbe_2023-01-16_09-43-28.jpg/392x696bb.jpg"
   ],
-  "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/7a/c4/67/7ac4678d-9386-f494-d0f5-d493aef8aee3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
   "ipadScreenshotUrls": [
    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/eb/67/0f/eb670fa3-9971-d2f7-c04b-239fb8827aa5/b5e45577-568c-4a0c-b474-6e400fca7bf8_2023-01-16_09-43-28.jpg/576x768bb.jpg",
    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/c1/bd/1d/c1bd1dc4-8824-a956-e6b5-4d36638253bf/9d7c88d2-a65a-4172-9a1f-c3d6a0bd5595_2023-01-16_09-41-58.jpg/576x768bb.jpg",
@@ -867,8 +863,7 @@
   ],
   "appletvScreenshotUrls": [],
   "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/7a/c4/67/7ac4678d-9386-f494-d0f5-d493aef8aee3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
-  "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/7a/c4/67/7ac4678d-9386-f494-d0f5-d493aef8aee3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
-  "artistViewUrl": "https://apps.apple.com/vn/developer/duong-le/id1599040249?uo=4",
+  "isGameCenterEnabled": false,
   "supportedDevices": [
    "iPhone5s-iPhone5s",
    "iPadAir-iPadAir",
@@ -1003,8 +998,20 @@
    "iPadMiniA20Pro-iPadMiniA20Pro",
    "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
   ],
-  "averageUserRating": 4.8,
-  "price": 0.0,
+  "advisories": [],
+  "kind": "software",
+  "artistViewUrl": "https://apps.apple.com/vn/developer/duong-le/id1599040249?uo=4",
+  "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/7a/c4/67/7ac4678d-9386-f494-d0f5-d493aef8aee3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
+  "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/7a/c4/67/7ac4678d-9386-f494-d0f5-d493aef8aee3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
+  "averageUserRatingForCurrentVersion": 4.8,
+  "languageCodesISO2A": [
+   "EN",
+   "VI"
+  ],
+  "fileSizeBytes": "79178752",
+  "formattedPrice": "Free",
+  "userRatingCountForCurrentVersion": 5,
+  "trackContentRating": "4+",
   "genres": [
    "Games",
    "Word",
@@ -1013,38 +1020,31 @@
   ],
   "artistId": 1599040249,
   "artistName": "Duong Le",
-  "minimumOsVersion": "11.0",
-  "releaseDate": "2023-01-16T08:00:00Z",
-  "isVppDeviceBasedLicensingEnabled": true,
-  "primaryGenreName": "Games",
-  "primaryGenreId": 6014,
-  "sellerName": "Duong Le",
-  "version": "1.0.5",
-  "wrapperType": "software",
-  "currency": "VND",
-  "description": "Funny word puzzle with emoji.",
+  "price": 0.0,
   "bundleId": "com.duongle.brainhack",
-  "averageUserRatingForCurrentVersion": 4.8,
-  "trackCensoredName": "Brain hack - Emoji puzzle",
-  "languageCodesISO2A": [
-   "EN",
-   "VI"
-  ],
-  "fileSizeBytes": "79178752",
-  "formattedPrice": "Free",
-  "contentAdvisoryRating": "4+",
-  "userRatingCountForCurrentVersion": 5,
-  "trackViewUrl": "https://apps.apple.com/vn/app/brain-hack-emoji-puzzle/id1665458705?uo=4",
-  "trackContentRating": "4+",
   "genreIds": [
    "6014",
    "7019",
    "6016",
    "7012"
   ],
-  "currentVersionReleaseDate": "2023-01-16T21:39:54Z",
+  "minimumOsVersion": "11.0",
+  "sellerName": "Duong Le",
+  "primaryGenreName": "Games",
+  "primaryGenreId": 6014,
+  "isVppDeviceBasedLicensingEnabled": true,
   "trackId": 1665458705,
   "trackName": "Brain hack - Emoji puzzle",
+  "currentVersionReleaseDate": "2023-01-16T21:39:54Z",
+  "version": "1.0.5",
+  "wrapperType": "software",
+  "currency": "VND",
+  "description": "Funny word puzzle with emoji.",
+  "averageUserRating": 4.8,
+  "trackCensoredName": "Brain hack - Emoji puzzle",
+  "trackViewUrl": "https://apps.apple.com/vn/app/brain-hack-emoji-puzzle/id1665458705?uo=4",
+  "contentAdvisoryRating": "4+",
+  "releaseDate": "2023-01-16T08:00:00Z",
   "userRatingCount": 5
  }
 ]
