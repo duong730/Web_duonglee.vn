@@ -1,0 +1,45 @@
+# Dựng trang (scripts/build.py) và đăng lên GitHub Pages mỗi khi đẩy code lên main.
+# Cần: Settings › Pages › Source = GitHub Actions; biến SITE_EMAIL ở Settings › Secrets and variables › Actions › Variables.
+name: Đăng trang duonglee.vn
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install pillow beautifulsoup4
+      - name: Dựng trang
+        run: python3 scripts/build.py
+        env:
+          SITE_EMAIL: ${{ vars.SITE_EMAIL }}
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
