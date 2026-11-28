@@ -97,10 +97,10 @@ APPS = [
     },
     {
         "id": "dinh-bo", "kind": "app", "label": "Đỉnh Bò",
-        "name": "Đỉnh Bò – Chủ Quán", "sub": "Quản lý nhà hàng, kho, lãi lỗ", "tint": "#8E1F1F",
+        "name": "Đỉnh Bò - Quản lý quán", "sub": "Quản lý nhà hàng, kho, lãi lỗ", "tint": "#8E1F1F",
         "badge": "Coming soon",
         "icon": "media/dinh-bo/icon.png",
-        "meta": "Restaurant management · iPhone · In Vietnamese",
+        "meta": "Restaurant management · iPhone & iPad · In Vietnamese",
         "desc": "Inventory, recipes, sales and profit & loss for restaurant owners, with cooking courses inside the app.",
         "links": [],
         "page": "/dinh-bo/",
@@ -601,8 +601,8 @@ def build_vietnamese():
     bo = BY_ID["dinh-bo"]
     body = fragment("dinh-bo.html", shelf=shelf(bo, "Ảnh màn hình Đỉnh Bò", eager=True),
                     icon=img_tag(bo["icon_img"], "Biểu tượng Đỉnh Bò", "panel-icon", eager=True))
-    page("/dinh-bo/", "Đỉnh Bò – Chủ Quán: quản lý nhà hàng, kho, lãi lỗ", body, lang="vi", body_class="theme-dinhbo",
-         desc="App Đỉnh Bò – Chủ Quán: nhập hàng, tồn kho, công thức món, bán hàng và lãi lỗ cho chủ quán ăn. "
+    page("/dinh-bo/", "Đỉnh Bò - Quản lý quán: quản lý nhà hàng, kho, lãi lỗ", body, lang="vi", body_class="theme-dinhbo",
+         desc="App Đỉnh Bò - Quản lý quán: nhập hàng, tồn kho, công thức món, bán hàng và lãi lỗ cho chủ quán ăn. "
          "Có khóa học nấu lẩu và nước chấm.",
          image_url=bo["icon_img"][0])
     extra = (
@@ -613,12 +613,12 @@ def build_vietnamese():
     )
     for slug, title, meta, desc in [
         ("dinh-bo-privacy-policy", "Chính sách quyền riêng tư", "Cập nhật ngày 24/11/2026",
-         "Chính sách quyền riêng tư của app Đỉnh Bò – Chủ Quán."),
-        ("dinh-bo-support", "Hỗ trợ", "", "Hỗ trợ app Đỉnh Bò – Chủ Quán: liên hệ và câu hỏi thường gặp."),
-        ("dinh-bo-delete-account", "Xóa tài khoản", "", "Cách xóa tài khoản Đỉnh Bò – Chủ Quán và dữ liệu bị xóa."),
+         "Chính sách quyền riêng tư của app Đỉnh Bò - Quản lý quán."),
+        ("dinh-bo-support", "Hỗ trợ", "", "Hỗ trợ app Đỉnh Bò - Quản lý quán: liên hệ và câu hỏi thường gặp."),
+        ("dinh-bo-delete-account", "Xóa tài khoản", "", "Cách xóa tài khoản Đỉnh Bò - Quản lý quán và dữ liệu bị xóa."),
     ]:
-        body = doc_layout(bo, title, meta, fragment(f"{slug}.html"), lang="vi", eyebrow="Đỉnh Bò – Chủ Quán", aside_extra=extra)
-        page(f"/{slug}/", f"{title} · Đỉnh Bò – Chủ Quán", body, lang="vi", desc=desc,
+        body = doc_layout(bo, title, meta, fragment(f"{slug}.html"), lang="vi", eyebrow="Đỉnh Bò - Quản lý quán", aside_extra=extra)
+        page(f"/{slug}/", f"{title} · Đỉnh Bò - Quản lý quán", body, lang="vi", desc=desc,
              image_url=bo["icon_img"][0], body_class="theme-dinhbo")
 
 
